@@ -10,7 +10,7 @@ npm install
 
 -   Встроенный скрипт, который будет исполнять следующий код:
 
-```javascript
+```javascripta
 document.body.append('inline');
 ```
 
